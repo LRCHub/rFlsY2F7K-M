@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ホワイトキス",
+  "base_artist": "鈴木鈴木",
+  "createdAt": "2025-12-23T07:07:24.593630Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ホワイトキス",
+      "artist": "鈴木鈴木",
+      "has_synced": false,
+      "path": "select/01_ホワイトキス_鈴木鈴木.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ホワイトキス",
+      "artist": "鈴木鈴木",
+      "has_synced": true,
+      "path": "select/02_ホワイトキス_鈴木鈴木.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ホワイトキス",
+      "artist": "鈴木鈴木",
+      "has_synced": false,
+      "path": "select/pl_01_ホワイトキス_鈴木鈴木.txt"
+    }
+  ]
+}
